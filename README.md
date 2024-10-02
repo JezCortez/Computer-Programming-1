@@ -16,9 +16,10 @@ Please note of the following settings for our case in VirtualBox:
 Follow through the Installation process and make an account with your name and a password that is easy for you to remember.
 
 ## Ubuntu Setup
-After the installation, setting up Ubuntu for efficient programming is easy and simple. Most Debian-based Linux Distributions have something called appstore (it might be different for other distributions but essentially they have an app where you can install applications), open that and download the following:
+After the installation, setting up Ubuntu for efficient programming is easy and simple. Most Debian-based Linux Distributions have something called appstore (it might be different for other distributions but essentially they have an app where you can install applications), here are some of the apps I recommend:
+
 - Sublime Text - Sophisticated text editor for code
 - Chatbot Client - OpenAI's ChatGPT Website client
 - VScode - Visual Studio client for Source Code execution
 
-You can also use 
+### 
